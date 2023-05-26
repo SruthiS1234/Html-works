@@ -1,0 +1,59 @@
+body{
+    background-image: url('work-1/images/batman.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+h1{
+    color: rgb(0, 149, 255);
+    background-color: rgb(46, 44, 48);
+    font-family: 'Times New Roman', Times, serif; 
+    font-size: 40px;
+}
+p{
+    color: rgb(1, 2, 3);background-color: rgb(200, 133, 32);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, Times, serif;
+    font-size: 20px;
+    text-align:justify;
+    margin : 10% 5% 10% 5%;
+       
+}
+h2{
+    color: black;
+    background-color: blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30;
+    text-align: center;
+}
+
+.parag-1{
+    color: brown;
+    background-color: bisque;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    margin: 20% 5% 10% 5%;
+    padding:20% 10% 5% 10%;
+}
+.para-2{
+    color: rgb(201, 20, 20);
+    background-color: rgb(196, 230, 255);
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    text-align: center;
+    margin: 30% 5% 10% 5%;
+    padding:20% 10% 5% 10%; 
+}
+.para-3{
+    color: rgb(20, 201, 126);
+    background-color: rgb(196, 230, 255);
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    text-align: center;
+    margin: 30% 5% 10% 5%;
+    padding:20% 10% 5% 10%; 
+}
+.head-1{
+    color: black;
+    background-color: rgb(255, 72, 0);
+}
